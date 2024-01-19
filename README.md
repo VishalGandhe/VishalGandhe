@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Java with Selenium, Postman and Rest Assured API Automation.
 - 🌱 I’m currently learning Git, Jenkins and DevOps
 - 👨‍💻 All of my projects are available at https://github.com/VishalGandhe
+- 📄 Know about my experiences https://www.linkedin.com/in/vishal-gandhe
 
 <!--
 **VishalGandhe/VishalGandhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
