@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Vishal Gandhe
 
-- 🔭 I’m currently working on Java with Selenium, Postman and Rest Assured API Automation.
-- 🌱 I’m currently learning Git, Jenkins and DevOps
+- 🔭 I’m currently working on Java with Selenium, Postman,Rest Assured API Automation,SQL,Git,Jenkins,BDD.
+- 🌱 I’m currently learning Cloud Computing and DevOps.
 - 👨‍💻 All of my projects are available at https://github.com/VishalGandhe
 - 📄 Know about my experiences https://www.linkedin.com/in/vishal-gandhe
 
