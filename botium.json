@@ -1,0 +1,24 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "Agentic AI Test",
+      "CONTAINERMODE": "simplerest",
+      "SIMPLEREST_URL": "https://openrouter.ai/api/v1/chat/completions",
+      "SIMPLEREST_METHOD": "POST",
+      "SIMPLEREST_HEADERS": {
+        "Authorization": "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",
+        "Content-Type": "application/json"
+      },
+      "SIMPLEREST_BODY_TEMPLATE": {
+        "model": "mistralai/mistral-7b-instruct",
+        "messages": [
+          {
+            "role": "user",
+            "content": "{{msg.messageText}}"
+          }
+        ]
+      },
+      "SIMPLEREST_RESPONSE_JSONPATH": "$.choices[0].message.content"
+    }
+  }
+}
